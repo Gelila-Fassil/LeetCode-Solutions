@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gelila-Fassil/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1528-shuffle-string](https://github.com/Gelila-Fassil/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gelila-Fassil/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Gelila-Fassil/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Gelila-Fassil/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [1528-shuffle-string](https://github.com/Gelila-Fassil/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gelila-Fassil/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
